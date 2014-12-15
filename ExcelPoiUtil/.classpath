@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/log4j-1.2.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/ooxml-schemas-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/jxls-core-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib-compile/jxls-reader-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib-compile/poi-examples-3.10.1-20140818.jar"/>
+	<classpathentry kind="lib" path="lib-compile/poi-3.10.1-20140818.jar" sourcepath="/home/hunter/Downloads/poi_test/poi-src-3.10.1-20140818.zip"/>
+	<classpathentry kind="lib" path="lib-compile/poi-ooxml-3.10.1-20140818.jar"/>
+	<classpathentry kind="output" path="src/web/META-INF/classes"/>
+</classpath>
